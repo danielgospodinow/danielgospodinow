@@ -14,7 +14,7 @@ do
 
     git add .
     git commit -m "Draw" 
-    GIT_COMMITTER_DATE=$i git commit --amend --no-edit --date=$i
+    GIT_COMMITTER_DATE="$i" git commit --amend --no-edit --date="$i"
     git push
 done
 
