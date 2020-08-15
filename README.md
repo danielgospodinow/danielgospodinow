@@ -1,6 +1,7 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danielgospodinow&count_private=true&show_icons=true&&hide_border=true)
+-->
 
 <!--
 **danielgospodinow/danielgospodinow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
