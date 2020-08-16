@@ -4,7 +4,7 @@ I'm Daniel.
 
 I love building new stuff in my free time. 🔨 👶 🕒
 
-I mostly focus on projects related to IoT, video games, or some small utility projects. 🎯 🤖 🎮 🧩
+I mostly focus on projects related to IoT, video games, or some small utilities. 🎯 🤖 🎮 🧩
 
 You can learn more about me at my website [danielgospodinow.com](http://danielgospodinow.com/).
 
