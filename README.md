@@ -10,6 +10,8 @@ You can learn more about me at my website [danielgospodinow.com](http://danielgo
 
 ![](https://media1.tenor.com/images/b1b10b34d3bb873797bb9f27d8c26b75/tenor.gif?itemid=11005405)
 
+Okay, you can go ahead now.
+
 <!--### Hi there 👋
 
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danielgospodinow&count_private=true&show_icons=true&&hide_border=true)
