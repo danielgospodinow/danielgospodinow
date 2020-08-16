@@ -1,4 +1,4 @@
-Hi 👋 , I'm Daniel.
+I'm Daniel.
 
 ![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
