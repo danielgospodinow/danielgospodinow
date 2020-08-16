@@ -2,9 +2,9 @@ I'm Daniel.
 
 ![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
-I love building new stuff in my free time. 🔨 👶 🕒
+I love building new stuff in my free time.
 
-I mostly focus on projects related to IoT, video games, or some small utilities. 🎯 🤖 🎮 🧩
+I mostly focus on projects related to IoT, video games, or some small utilities.
 
 You can learn more about me at my website [danielgospodinow.com](http://danielgospodinow.com/).
 
